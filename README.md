@@ -58,9 +58,7 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="500">
-</div>
+
 
 ### 🧠 [Trivia Quiz Generator](https://github.com/jyotiade/trivia-quiz-generator) 🔗
 **Dynamic quiz application with AI-powered questions**
