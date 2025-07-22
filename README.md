@@ -17,14 +17,14 @@
 
 🎓 **B.Tech Graduate** from NRI Institute with CGPA 8.44  
 💻 **Passionate Full Stack Developer** specializing in React, Django, and Python  
-🌟 Love creating seamless user experiences and robust backend solutions  
+🌟 Love creating seamless user experiences and robust frontend  solutions  
 📍 Based in **Bhopal, India**
 
 <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### What I Do:
 - 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **Advanced React Patterns** and **Cloud Technologies**
+- 🌱 Learning **Advanced React Patterns** 
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Django, Python, and Web Development**
 - ⚡ Fun fact: I debug with print statements and I'm proud of it! 😄
